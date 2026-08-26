@@ -1,0 +1,4 @@
+/* Clean Table Hover styling */
+.table-hover-row:hover {
+  background-color: #161616 !important;
+}

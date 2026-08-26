@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "password123"
+    },
+    "Krishnaprasath": {
+        "password": "$ub!ksh@m"
+    },
+    "test": {
+        "password": "subiksha"
+    },
+    "revoke": {
+        "password": "subiksha"
+    }
+}
